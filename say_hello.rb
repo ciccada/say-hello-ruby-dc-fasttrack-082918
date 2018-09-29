@@ -2,3 +2,6 @@
 
 say_hello(name = "Henrietta")
 puts "Hello #{name}!"
+
+
+say_hello("Sam")
